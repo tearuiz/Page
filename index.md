@@ -24,4 +24,4 @@ After graduation I hope to find a full-time position close by so I can stay in S
 
 ### Personal Interests
 Outside of academics, I am really passionate about nature and sustainability. I had always been interested in these topics but it became more of a passion when I began listing to [National Park After Dark](https://www.npadpodcast.com), a podcast centered on stories and current issues within the National Park Service. 
-My fondness for the outdoors often leads me to Yosemite and other beautiful parks in California, where I am able to experience views like [this](docs/yose.pdf). 
+My fondness for the outdoors often leads me to Yosemite and other beautiful parks in California, where I am able to experience views like [this](Pages/yose.pdf). 
