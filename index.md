@@ -1,7 +1,7 @@
 # Teá's Page
 
 ### Experience and Academic Goals 
-Link to my personal section: [Link Text](#personal-interests).
+> Link to my personal section: [Link Text](#personal-interests).
 
 
 I am currently a fourth year Math-CS student at <ins>UCSD</ins>. 
@@ -24,4 +24,5 @@ After graduation I hope to find a full-time position close by so I can stay in S
 
 ### Personal Interests
 Outside of academics, I am really passionate about nature and sustainability. I had always been interested in these topics but it became more of a passion when I began listing to [National Park After Dark](https://www.npadpodcast.com), a podcast centered on stories and current issues within the National Park Service. 
-My fondness for the outdoors often leads me to Yosemite and other beautiful parks in California, where I am able to experience views like [this](Pages/yose.md). 
+My fondness for the outdoors often leads me to Yosemite and other beautiful parks in California, where I am able to experience views like [this](docs/yose.md). 
+![An overview of Yosemite](https://i0.wp.com/vezzaniphotography.com/wp-content/uploads/2018/12/best-photo-spots-yosemite-1-9.jpg?fit=1200%2C800&ssl=1)
